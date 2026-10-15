@@ -1,9 +1,9 @@
 # OOP 
 name: Ronald Murape 
 Reg number: H250475V
-Course: Object-Oriented Programming in J
+Course: Object-Oriented Programming with Java 
 
-This directory contains the complete, compilable (JDK 17+) solutions for **Labs .
+This directory contains the complete, compilable (JDK 17+) solutions for Labs .
 
 
 
