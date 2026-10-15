@@ -11,6 +11,9 @@ Owner: **Ronald Murape** · Reg. No. **H250475V**
 - `Lab01` ... `Lab11` — one folder per lab, containing the manual's demo programs plus
   selected `Basic / Intermediate / Challenge` exercise solutions.
 - `Lab11` also contains the **Library Management System mini-project**.
+- `banking system/` — standalone **bank account practice project** (`Account`, `SavingsAccount`,
+  `CurrentAccount`, `BankDemo`) demonstrating abstraction, inheritance and polymorphism,
+  plus the assignment brief (`ronaldmurape_h250475V_oop_prac_assignment1.pdf`).
 
 ## How to compile and run (example: Lab 01)
 ```bash
@@ -46,6 +49,18 @@ java LibraryApp
 Features: abstraction (`LibraryItem`), inheritance (`LibBook`, `Dvd`), interface `Borrowable`,
 custom exceptions, `Map`-based storage, stream search, CSV persistence across runs,
 menu (add item, register member, borrow, return, overdue list, search by title).
+
+## Banking System (Practice Assignment)
+A standalone practice project demonstrating an abstract `Account` with concrete
+`SavingsAccount` and `CurrentAccount` subclasses (overdraft rules, interest,
+maintenance fee, month-end processing), run from `BankDemo`.
+
+Compile and run:
+```bash
+cd "banking system"
+javac *.java
+java BankDemo
+```
 
 ## Edge cases / pitfalls addressed
 - `NullPointerException` guards and null checks (Lab 1, 7).

@@ -9,3 +9,9 @@ library-data/
 # OS
 .DS_Store
 Thumbs.db
+
+# banking system (IntelliJ) artifacts
+banking system/out/
+banking system/.idea/
+banking system/*.iml
+banking system/*.class
