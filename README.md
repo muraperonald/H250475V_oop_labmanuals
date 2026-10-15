@@ -1,11 +1,11 @@
-# OOP in Java — Lab Solutions
-### Student: Ronald Murape (Registration No. H250475V)
-### Course: Object-Oriented Programming in Java (University Lab Manual)
+# OOP 
+name: Ronald Murape 
+Reg number: H250475V
+Course: Object-Oriented Programming in J
 
-This directory contains the complete, compilable (JDK 17+) solutions for **Labs 1–11**
-from the *Object-Oriented Programming in Java — University Lab Manual*.
+This directory contains the complete, compilable (JDK 17+) solutions for **Labs .
 
-Owner: **Ronald Murape** · Reg. No. **H250475V**
+
 
 ## Folder layout
 - `Lab01` ... `Lab11` — one folder per lab, containing the manual's demo programs plus
