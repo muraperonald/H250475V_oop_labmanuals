@@ -1,0 +1,11 @@
+# Compiled Java
+*.class
+
+# Runtime-generated data from demos
+students.txt
+learners.csv
+library-data/
+
+# OS
+.DS_Store
+Thumbs.db
